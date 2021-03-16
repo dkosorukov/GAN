@@ -4,7 +4,8 @@ This Udacity files for GANs
 
 ## Project Components
 * `gan-mnist` generating digit images based on MNIST data set.
-* `batch-norm` normalization of batches at each layer
+* `batch-norm` normalization of batches at each layer.
+* `dcgan-svhn` deep convolutional GANs. Example of a network generating house numbers.
 
 
 ## License
