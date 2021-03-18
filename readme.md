@@ -6,6 +6,7 @@ This Udacity files for GANs
 * `gan-mnist` generating digit images based on MNIST data set.
 * `batch-norm` normalization of batches at each layer.
 * `dcgan-svhn` deep convolutional GANs. Example of a network generating house numbers.
+* `cycle-gan' example of cycle GAN to transform winter images in to symmer ones.
 
 
 ## License
